@@ -1,4 +1,4 @@
-package ch6;
+package ch6.Tv;
 
 public class TvTest4 {
 

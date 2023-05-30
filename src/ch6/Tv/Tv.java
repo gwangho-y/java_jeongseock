@@ -1,4 +1,4 @@
-package ch6;
+package ch6.Tv;
 
 class Tv {
     // Tv의 속성(멤버변수)
