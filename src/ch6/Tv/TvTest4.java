@@ -1,8 +1,6 @@
 package ch6.Tv;
 
 public class TvTest4 {
-
-
     public static void main(String[] args) {
         Tv[] tvArr = new Tv[3]; // 길이 3인 Tv객체 배열
 
@@ -20,8 +18,5 @@ public class TvTest4 {
                 tvArr[2].channel=13
             */
         }
-
-
     }
-
 }
