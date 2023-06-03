@@ -1,8 +1,6 @@
 package ch6.CallStatck;
 
 public class FactorialTest {
-
-
     public static void main(String[] args) {
         int result = factorial(4);
     }
