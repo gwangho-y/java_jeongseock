@@ -21,9 +21,10 @@ public class Car {
     }
 
     Car(Car c) {
-        this.color = c.color;
-        this.gearType = c.gearType;
-        this.door = c.door;
-
+//        this.color = c.color;
+//        this.gearType = c.gearType;
+//        this.door = c.door;
+        this(c.color, c.gearType, c.door);
     }
+
 }
