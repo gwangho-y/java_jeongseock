@@ -1,4 +1,4 @@
-package ch7.TVCR;
+package ch7.상속.TVCR;
 
 public class TVCR extends Tv{
     VCR vcr = new VCR();

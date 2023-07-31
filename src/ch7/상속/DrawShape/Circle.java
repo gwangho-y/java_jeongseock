@@ -1,4 +1,4 @@
-package ch7.DrawShape;
+package ch7.상속.DrawShape;
 
 // 원은 도형인가? yes. Shape 상속
 // 원은 점인가? no, 점을 가지고 있다 yes. Point 포함

@@ -1,4 +1,4 @@
-package ch7.Tv;
+package ch7.상속.Tv;
 
 public class CaptionTv extends Tv {
     boolean caption; // 자막 상태

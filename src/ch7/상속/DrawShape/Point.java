@@ -1,4 +1,4 @@
-package ch7.DrawShape;
+package ch7.상속.DrawShape;
 
 public class Point {
     int x;

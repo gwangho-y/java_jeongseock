@@ -1,4 +1,4 @@
-package ch7.TVCR;
+package ch7.상속.TVCR;
 
 public class VCR {
     boolean power;
