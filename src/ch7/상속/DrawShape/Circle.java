@@ -19,5 +19,4 @@ public class Circle extends Shape {
         System.out.printf("[center=(%d, %d), r=%d, color=%s]%n", center.x, center.y, r, color);
 
     }
-
 }

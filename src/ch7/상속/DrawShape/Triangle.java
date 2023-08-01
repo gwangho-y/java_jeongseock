@@ -2,7 +2,7 @@ package ch7.상속.DrawShape;
 
 public class Triangle extends Shape {
 
-    Point[] p;
+    Point[] p = new Point[3];
 
     Triangle(Point[] p){
         this.p = p;
