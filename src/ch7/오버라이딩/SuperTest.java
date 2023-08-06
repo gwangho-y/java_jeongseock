@@ -8,7 +8,7 @@ public class SuperTest {
 }
 
 class Parent {
-    int x=10;
+    int x = 10;
 }
 
 class Child extends Parent {
