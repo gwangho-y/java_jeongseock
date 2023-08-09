@@ -2,7 +2,9 @@ package ch7.인터페이스;
 
 
 
-interface Movable { void move(int x, int y);}
+interface Movable {
+    public abstract void move(int x, int y);
+}
 interface Attackable { void attack(Unit u);}
 interface Fightable extends Movable, Attackable{ }
 
