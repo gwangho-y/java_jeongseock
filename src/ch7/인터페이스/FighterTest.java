@@ -1,7 +1,6 @@
 package ch7.인터페이스;
 
 
-
 interface Movable {
     public abstract void move(int x, int y);
 }
