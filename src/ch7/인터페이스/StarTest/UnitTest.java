@@ -57,6 +57,6 @@ public class UnitTest {
         SCV s = new SCV();
 
         s.repair(d);
-        s.repair(m); // 에러
+//        s.repair(m); // 에러
     }
 }
